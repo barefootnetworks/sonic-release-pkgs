@@ -1,0 +1,2 @@
+bfnplatform_8.5.x.59217b4.deb filter=lfs diff=lfs merge=lfs -text
+bfnsdk_8.5.x.59217b4.deb filter=lfs diff=lfs merge=lfs -text
