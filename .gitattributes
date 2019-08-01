@@ -1,0 +1,4 @@
+bfnsdk_8.9.x.98de3ce_pr_deb8.deb filter=lfs diff=lfs merge=lfs -text
+bfnsdk_8.9.x.98de3ce_pr_deb9.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_8.9.x.98de3ce_pr_deb8.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_8.9.x.98de3ce_pr_deb9.deb filter=lfs diff=lfs merge=lfs -text
