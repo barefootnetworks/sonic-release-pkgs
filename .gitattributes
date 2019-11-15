@@ -1,2 +1,4 @@
 bfnplatform_20191107_deb9.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20191107_deb9.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_20191115_deb9.deb filter=lfs diff=lfs merge=lfs -text
+bfnsdk_20191115_deb9.deb filter=lfs diff=lfs merge=lfs -text
