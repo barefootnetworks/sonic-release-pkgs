@@ -6,3 +6,5 @@ bfnplatform_20191227_deb9.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20191227_deb9.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20200205_deb9.deb filter=lfs diff=lfs merge=lfs -text
 bfnplatform_20200205_deb9.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_20200407_deb9.deb filter=lfs diff=lfs merge=lfs -text
+bfnsdk_20200407_deb9.deb filter=lfs diff=lfs merge=lfs -text
