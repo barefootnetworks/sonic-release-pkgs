@@ -22,3 +22,5 @@ bfnplatform_20200721_deb9.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20200721_deb9.deb filter=lfs diff=lfs merge=lfs -text
 bfnplatform_20200731_sai_1.5.2_deb9.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20200731_sai_1.5.2_deb9.deb filter=lfs diff=lfs merge=lfs -text
+bfnsdk_20201009_deb9.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_20201009_deb9.deb filter=lfs diff=lfs merge=lfs -text
