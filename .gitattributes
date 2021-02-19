@@ -36,3 +36,5 @@ bfnplatform_20201228_deb10.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20201228_deb10.deb filter=lfs diff=lfs merge=lfs -text
 bfnplatform_20210128_sai_1.5.2_deb9.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20210128_sai_1.5.2_deb9.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_20210219_deb10.deb filter=lfs diff=lfs merge=lfs -text
+bfnsdk_20210219_deb10.deb filter=lfs diff=lfs merge=lfs -text
