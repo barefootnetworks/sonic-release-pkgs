@@ -1,0 +1,2 @@
+bfnsdk_20210422_amd64.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_20210422_amd64.deb filter=lfs diff=lfs merge=lfs -text
