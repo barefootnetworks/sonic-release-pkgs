@@ -6,3 +6,5 @@ bfnplatform_20210603_amd64.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20210603_amd64.deb filter=lfs diff=lfs merge=lfs -text
 bfnplatform_20210827_amd64.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20210827_amd64.deb filter=lfs diff=lfs merge=lfs -text
+bfnsdk_20211012_amd64.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_20211012_amd64.deb filter=lfs diff=lfs merge=lfs -text
