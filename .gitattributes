@@ -82,3 +82,5 @@ bfnplatform_20220704_sai_1.10.2_deb11.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20220704_sai_1.10.2_deb11.deb filter=lfs diff=lfs merge=lfs -text
 bfnsdk_20220815_sai_1.10_deb11.deb filter=lfs diff=lfs merge=lfs -text
 bfnplatform_20220815_sai_1.10_deb11.deb filter=lfs diff=lfs merge=lfs -text
+bfnsdk_20221130_sai_1.11.0_deb11.deb filter=lfs diff=lfs merge=lfs -text
+bfnplatform_20221130_sai_1.11.0_deb11.deb filter=lfs diff=lfs merge=lfs -text
